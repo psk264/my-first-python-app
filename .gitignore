@@ -7,3 +7,5 @@
 
 # ignore some files that may get generated when running python modules:
 __pycache__
+
+.ini
